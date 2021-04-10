@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋👋👋
 
 ### Introduction
 
@@ -13,12 +13,13 @@
 - :hammer_and_wrench: Skills 
   - <font size="15" color="red"><b>Algorithms / Modles</b> **~**</font> Commonly used maching learning algorithms ablut super/unsuper-vised learning, including LR, Decision trees, SVM,  KNN, Kmeans, etc., and have experience of applying CNN, GNN, Transformer etc. in CV, Graph data, Audio.
   - <font size="15" color="red"><b>Computer Basis</b> **~**</font> Commonly used data structures, including list, binary tree, graph etc., and Database, OS, Network. Maybe I'm not so familiar with some aspects, but I can quickly understand the problem / principles. 
-  <!-- <font size="15" color="red"><b>Math About ML / DL</b> **~**</font> 
+ 
   
   
 - 😀 I like reading📖, riding🚵, playing badminton🏸, swiming🏊. I am learning harmonic <img src="./imgs/harmonica_32px_1169661_easyicon.net.png" width="16"> ...
 
 - 😁 Welcom to my site [www.gzyzq.site](www.gzyzq.site) and my [CSDN](https://blog.csdn.net/Miha_Singh)
+
 
 <details>
   <summary><b>:keyboard: My Projects</b></summary>
