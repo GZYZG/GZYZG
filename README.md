@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GZYZG/GZYZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a graduate student of Hunan University, major in Computer Science ...
 - 🌱 I’m currently learning ML/DL, mainly focus on Graph Neural Networks, Representation Learning ...
 - 🧰 Common tools: Python, Tensorflow/Pytorch, Latex, sklearn, xgboost ...
