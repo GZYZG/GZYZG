@@ -1,14 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+
+### Introduction
 
 - 🔭 I’m currently a graduate student of Hunan University, major in Computer Science ...
 
 - 🌱 I’m currently working on ML/DL, mainly focus on Graph Neural Networks, Representation Learning ...
 
 - 🧰 Tools
-  - Common used **~** Python, Tensorflow / Pytorch :fire:, Latex <img src="./imgs/latex-project-logo.svg" width="48">, sklearn, numpy/pandas xgboost, Linux ...
-  - Used **~** Django, Java, Typescript, CSS/HTML/Javascript ...
+  - Common used **~** Python, Tensorflow / Pytorch :fire:, Latex <img src="./imgs/latex-project-logo.svg" width="64">, sklearn, numpy/pandas xgboost, Linux ...
+  - Used <font size="20" color="green">~</font> Django, Java, Typescript, CSS/HTML/Javascript ...
 
-- 😁 I like reading📖, riding🚵, playing badminton🏸, swiming🏊. I am learning harmonic <img src="./imgs/harmonica_32px_1169661_easyicon.net.png" width="16"> ...
+- 😀 I like reading📖, riding🚵, playing badminton🏸, swiming🏊. I am learning harmonic <img src="./imgs/harmonica_32px_1169661_easyicon.net.png" width="16"> ...
+
+- 😁 Welcom to my site [www.gzyzq.site](www.gzyzq.site) and my [CSDN](https://blog.csdn.net/Miha_Singh)
 
 
 <details>
@@ -25,9 +29,8 @@
   </details>
 
 
-Welcom to my site [www.gzyzq.site](www.gzyzq.site) and my [CSDN](https://blog.csdn.net/Miha_Singh)
 
-#### Reference:
+### Reference:
 - [pifafu](https://github.com/pifafu)
 
 <!-- 👯 I’m looking to collaborate on ...
